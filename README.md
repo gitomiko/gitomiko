@@ -14,4 +14,4 @@
 
 ---
 
-<p align="center"><i>✨ Building things, solving problems, learning every day ✨</i></p>
+<p align="center"><i>✨ Building things, solving problems & learning every day ✨</i></p>
