@@ -6,17 +6,11 @@
 
 ---
 
-### 🎨 Creative
-DaVinci Resolve, KeyShot, Rhino 8, Unreal Engine, Blender
-
-### 💻 Code
-Python, Git, GitHub Actions, OpenCode
-
-### 🖌️ Design
-Affinity Suite (Photo, Designer, Publisher), Canva, Figma
-
-### 🏗️ CAD/BIM
-Autodesk AutoCAD, Autodesk Fusion, SketchUp, Archicad
+| 🎨 **Creative** | DaVinci Resolve · KeyShot · Rhino 8 · Unreal Engine · Blender |
+|---|---|
+| 💻 **Code** | Python · Git · GitHub Actions · OpenCode |
+| 🖌️ **Design** | Affinity Suite (Photo, Designer, Publisher) · Canva · Figma |
+| 🏗️ **CAD/BIM** | Autodesk AutoCAD · Autodesk Fusion · SketchUp · Archicad |
 
 ---
 
