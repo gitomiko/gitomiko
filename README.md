@@ -1,23 +1,22 @@
 <h1 align="center">👋 Hi, I'm gitomiko</h1>
 
 <p align="center">
-  <b>Creative Technologist · 3D Artist · Developer</b>
+  <b>Creative Technologist · Architectural Designer · Media Artist</b>
 </p>
 
 ---
 
-### 🧰 Toolbox
+### 🎨 Creative
+DaVinci Resolve, KeyShot, Rhino 8, Unreal Engine, Blender
 
-**Creative** — Adobe Creative Suite, Rhino 8, KeyShot, DaVinci Resolve, SketchUp  
-**CAD/BIM** — AutoCAD, Autodesk Fusion  
-**Code** — Python, Git, GitHub Actions, OpenCode  
-**Design** — Affinity Suite, Canva  
+### 💻 Code
+Python, Git, GitHub Actions, OpenCode
 
-### 📌 Projects
+### 🖌️ Design
+Affinity Suite (Photo, Designer, Publisher), Canva, Figma
 
-| Project | Description |
-|---------|-------------|
-| [windows-setup](https://github.com/gitomiko/windows-setup) | Windows 11 migration guide — software list from my Mac |
+### 🏗️ CAD/BIM
+Autodesk AutoCAD, Autodesk Fusion, SketchUp, Archicad
 
 ---
 
